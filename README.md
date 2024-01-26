@@ -1,2 +1,2 @@
 # vagrant-jenkins
-Provision Jenkins instance with Vagrant and Virtualbox
+Provision Jenkins on Debian with Vagrant and Virtualbox
